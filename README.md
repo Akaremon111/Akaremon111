@@ -6,7 +6,8 @@
 ### ⭐ My Skills
 
 <p align="left">
- <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="80" />
- <img src="https://unity.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Ffuvbjjlp%2Fproduction%2F6d1df49565a2ad20ffa8386f1465ba52039133e3-1920x1080.png" width="80"/>
+ <img src="![image](https://github.com/user-attachments/assets/d38989d6-bab7-4a3d-87cb-1b0459d2f0bb)
+" width="80" />
+ <img src="Image/Unity.png" width="80"/>
  <img src="" width="80"/>
  <img src="" width="80"/>
