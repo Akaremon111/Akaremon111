@@ -14,5 +14,7 @@
   <img src="Image/GitHub.png" width="90" />
 </p>
 
+### ⭐ My Status
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Akaremon&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
