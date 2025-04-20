@@ -13,3 +13,6 @@
   <img src="Image/Java.png" width="100" />
   <img src="Image/GitHub.png" width="90" />
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Akaremon&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
